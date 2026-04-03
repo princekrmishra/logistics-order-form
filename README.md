@@ -6,7 +6,7 @@ A production-ready, design-first logistics order management application built wi
 
 ## 🚀 Live Demo
 
-> Deploy to Vercel (see [Deployment Guide](#deployment)) and paste your link here.
+>
 
 ---
 
@@ -132,15 +132,10 @@ npm start
 
 ---
 
-## 🚀 Deployment
-
-See [DEPLOYMENT.md](./DEPLOYMENT.md) for full Vercel deployment steps.
-
----
 
 ## 🎨 Design
 
-See [FIGMA_GUIDE.md](./FIGMA_GUIDE.md) for the complete design system (colors, typography, spacing).
+See  for the complete design system (colors, typography, spacing).
 
 ---
 
